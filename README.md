@@ -1,4 +1,4 @@
-# AI Stock Analysis 📈
+# AI Stock Analysis
 
 A sophisticated multi-agent system built with **CrewAI** that performs deep financial analysis, quantitative scoring, and risk assessment for any given stock.
 
