@@ -34,7 +34,7 @@ The system follows a sequential process involving four specialized agents:
    uv sync
    ```
 3. **Configure Environment**: Create a `.env` file with your `GROQ_API_KEY`.
-4. **Run the analysis**:
+4. **Run the analysis**-
    ```bash
    python main.py
    ```
